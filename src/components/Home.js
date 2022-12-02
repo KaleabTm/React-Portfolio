@@ -11,7 +11,7 @@ const Home = () => {
                 <h2 className='text-4xl sm:text-7xl font-bold text-white'>I'm a junior react developer</h2>
                 <p className='text-gray-500 py-4 max-w-md' >
                     I have 8 years of experience building and designing software.
-                    Currently, I love to work on web application using technologies like React, Taile=winf, Next Js and GraphQL. 
+                    Currently, I love to work on web application using technologie like React, Taile=winf, Next Js and GraphQL. 
                 </p>
 
                 <div>
