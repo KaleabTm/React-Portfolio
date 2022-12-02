@@ -15,7 +15,7 @@ const links =[
             
             </>
         ),
-        href:'https://www.linkedin.com',
+        href:'https://www.linkedin.com/in/kaleab-tamiru-917268259/',
         style:  'rounded-tr-md'
     },
 
@@ -27,7 +27,7 @@ const links =[
             
             </>
         ),
-        href:'https://www.github.com'
+        href:'https://github.com/KaleabTm'
         
     },
 
