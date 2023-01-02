@@ -10,8 +10,9 @@ const Home = () => {
             <div className='flex flex-col justify-center h-full'>
                 <h2 className='text-4xl sm:text-7xl font-bold text-white'>I'm a junior react developer</h2>
                 <p className='text-gray-500 py-4 max-w-md' >
-                    I have 8 years of experience building and designing software.
-                    Currently, I love to work on web application using technologie like React, Taile=winf, Next Js and GraphQL. 
+                    {/* I have 8 years of experience building and designing software. */}
+                    I'm a motivated and hardworking individual who is always looking forward for new challenges. I'm excited to learn new programming languages and technologies. 
+                    I enjoy working on web application using technologie like React, nodejs, Tailwindss... 
                 </p>
 
                 <div>
